@@ -1,13 +1,12 @@
 ### Olá, Eu sou o Denilson Santos.
 
 - 🛠️ Atualmente trabalho como técnico de Mecatrônica ...
-- 💡 Estudando NodeJS e Python ...
+- 💡 Estudando NodeJS ...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Deni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Deni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Deni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Deni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div>
   
